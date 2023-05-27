@@ -1,2 +1,2 @@
-# BIT_CS_Textbook
-计算机第一学年课本
+# BIT_CS_Notebook
+计算机课程相关个人笔记
